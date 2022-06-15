@@ -1,0 +1,4 @@
+-> Oi, eu sou o Italo! 😄🖐
+-> Desenvolvedor Web 🤓👨‍💻
+-> Aprendendo HTML, CSS e JavaScript 🚀🤓
+-> Você pode me encontrar por enquanto no instagram @italo_olati19
