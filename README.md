@@ -2,7 +2,8 @@
 
 
 
-<p align="center">Olá, sou Italo! 👋
+![github-header-image](https://github.com/italo1101/italo1101/assets/101906510/c9b29cc2-9661-4ddc-97a8-85379253a195)
+
   <br>
   <h1>Sobre mim</h1>
   
