@@ -13,11 +13,10 @@
 
 <p>Durante minha jornada acadêmica, tive o privilégio de liderar projetos tanto no front-end quanto no back-end. Essas experiências não apenas aprimoraram minhas habilidades técnicas, mas também me ensinaram a importância da colaboração, da comunicação eficaz e da entrega de resultados de qualidade.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=kyronsatt&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-bice-tau.vercel.app
-/api/top-langs/?username=italo1101&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div align="center" style="margin-bottom:100px">
+  <img width="55%" align="center" src="https://github-readme-stats-bice-tau.vercel.app/api?username=italo1101&theme=radical&show_icons=true&count_private=true&include_all_commits=true&custom_title=GitHub%20Stats" />
+  <img width="40%" align="center" src="https://github-readme-stats-bice-tau.vercel.app/api/top-langs/?username=italo1101&theme=radical&layout=compact" />
+</div>
  
  &nbsp;
  &nbsp;
